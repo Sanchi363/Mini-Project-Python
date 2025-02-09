@@ -1,3 +1,5 @@
+#A simple library management system which stores the number of books and their names.
+
 class library:
     def __init__(self):
         self.books=[]
