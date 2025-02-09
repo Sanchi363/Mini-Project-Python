@@ -1,4 +1,5 @@
 #Greet good morning,good evening and afternoon as per time
+
 import time
 timestamp=time.strftime('%H:%M:%S')  #this is a string.
 print(timestamp)
