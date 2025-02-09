@@ -1,3 +1,5 @@
+#A simple rock,paper and scissors game with the computer
+
 import random
 print("!Start!")
 print("User selects the number given before the element to select it")
