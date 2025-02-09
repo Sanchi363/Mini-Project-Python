@@ -1,3 +1,5 @@
+#A program which encodes the word entered and decodes the encoded word with a coding logic.
+
 import random
 import string
 def randoms():
